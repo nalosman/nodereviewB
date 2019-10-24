@@ -37,3 +37,5 @@ router.get('/:id', (req, res) => {
 })
 
 module.exports = router;
+
+// where we call the dynamic data
